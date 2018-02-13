@@ -1,0 +1,4 @@
+> php artisan optimize
+Generating optimized class loader
+> php artisan key:generate
+Application key [base64:Ak1Jz53/YSCsQuXA1hNkMyU4bOsMKhjnlDPWCukO5Lo=] set successfully.
