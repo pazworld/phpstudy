@@ -45,4 +45,5 @@ Route::group(['middlewareGroups' => ['web']], function () {
         $book->delete();
         return redirect('/');
     });
+    Route::auth();
 });
